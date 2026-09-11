@@ -12,6 +12,13 @@
 class Solution {
 public:
 
+    /*
+
+        Time:  O(N), where we visit every node in the tree using postorder traversal / DFS
+        Space: O(H), where H represents the height at that particular node -> DFS space grows up to size H
+
+    */
+
     pair<int, int> dfs(TreeNode* root, int& valid){
         if(!root)
             return {0, 0};
