@@ -16,11 +16,11 @@ public:
         if(!root)
             return {0, 0};
 
-        pair<int, int> left = dfs(root->left, valid);
-        pair<int, int> right = dfs(root->right, valid);
+        pair<int, int> leftSubtree = dfs(root->left, valid);
+        pair<int, int> rightSubtree = dfs(root->right, valid);
 
-        int sum = root->val + left.first + right.first;
-        int count = 1 + left.second + right.second;
+        int sum = root->val + leftSubtree.first + rightSubtree.first;
+        int count = 1 + leftSubtree.second + rightSubtree.second;
 
         if(sum / count == root->val)
             valid++;
@@ -33,4 +33,5 @@ public:
         dfs(root, valid);
         return valid;
     }
+
 };
