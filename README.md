@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/juniortaeza/leetcode/tree/master/0001-two-sum) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/juniortaeza/leetcode/tree/master/1804-implement-trie-ii-prefix-tree) |
 ## Tree
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/juniortaeza/leetcode/tree/master/1804-implement-trie-ii-prefix-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/juniortaeza/leetcode/tree/master/1804-implement-trie-ii-prefix-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
+## Design
+|  |
+| ------- |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/juniortaeza/leetcode/tree/master/1804-implement-trie-ii-prefix-tree) |
 <!---LeetCode Topics End-->
