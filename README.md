@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/juniortaeza/leetcode/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/juniortaeza/leetcode/tree/master/0200-number-of-islands) |
+| [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/juniortaeza/leetcode/tree/master/0200-number-of-islands) |
+## String
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
+## Binary Search
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
