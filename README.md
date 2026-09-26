@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/juniortaeza/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/juniortaeza/leetcode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/juniortaeza/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/juniortaeza/leetcode/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/juniortaeza/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/juniortaeza/leetcode/tree/master/0049-group-anagrams) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/juniortaeza/leetcode/tree/master/1804-implement-trie-ii-prefix-tree) |
 ## Tree
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/juniortaeza/leetcode/tree/master/0049-group-anagrams) |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/juniortaeza/leetcode/tree/master/1804-implement-trie-ii-prefix-tree) |
 ## Binary Search
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/juniortaeza/leetcode/tree/master/0049-group-anagrams) |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
 ## Heap (Priority Queue)
 |  |
