@@ -47,13 +47,13 @@ public:
 
     vector<string> getWordsStartingWith(string prefix){
         TrieNode* curr = this->root;
-        vector<string> result;
         for(char c : prefix){
             int i = c - 'a';
             if(curr->children[i] == nullptr)
-                return result;
+                return {};
             curr = curr->children[i];
         }
+        vector<string> result;
         dfsWithPrefix(curr, prefix, result);
         return result;
     }
