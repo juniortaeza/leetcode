@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/juniortaeza/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/juniortaeza/leetcode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/juniortaeza/leetcode/tree/master/0200-number-of-islands) |
+| [0973-k-closest-points-to-origin](https://github.com/juniortaeza/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/juniortaeza/leetcode/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/juniortaeza/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3870-count-commas-in-range](https://github.com/juniortaeza/leetcode/tree/master/3870-count-commas-in-range) |
 ## Breadth-First Search
 |  |
@@ -67,13 +69,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/juniortaeza/leetcode/tree/master/0049-group-anagrams) |
+| [0973-k-closest-points-to-origin](https://github.com/juniortaeza/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/juniortaeza/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/juniortaeza/leetcode/tree/master/1268-search-suggestions-system) |
 ## Design
 |  |
 | ------- |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/juniortaeza/leetcode/tree/master/1804-implement-trie-ii-prefix-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/juniortaeza/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/juniortaeza/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/juniortaeza/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/juniortaeza/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
